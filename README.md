@@ -15,10 +15,12 @@ Software Engineer focused on backend architecture, APIs and distributed systems.
 ![C](https://img.shields.io/badge/C-ECECEC?style=for-the-badge&logo=c&logoColor=ab3f27)
 ![C++](https://img.shields.io/badge/C++-ECECEC?style=for-the-badge&logo=cplusplus&logoColor=5E97D0)
 ![Java](https://img.shields.io/badge/Java-ECECEC?style=for-the-badge&logo=openjdk&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-ECECEC?style=for-the-badge&logo=python&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ECECEC?style=for-the-badge&logo=typescript&logoColor=4e78c4)
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-ECECEC?style=for-the-badge&logo=springboot&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-ECECEC?style=for-the-badge&logo=node.js&logoColor=green)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-ECECEC?style=for-the-badge&logo=angular&logoColor=red)
