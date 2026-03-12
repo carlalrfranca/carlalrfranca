@@ -9,7 +9,6 @@ Software Engineer focused on backend architecture, APIs and distributed systems.
 - 📡 Integration: REST APIs, Kafka
 - 🗄 Databases: SQL Server, PostgreSQL
 
----
 
 ### Languages
 ![C](https://img.shields.io/badge/C-ECECEC?style=for-the-badge&logo=c&logoColor=ab3f27)
@@ -33,7 +32,6 @@ Software Engineer focused on backend architecture, APIs and distributed systems.
 ![Git](https://img.shields.io/badge/git-ECECEC?style=for-the-badge&logo=git&logoColor=f1502f)
 ![Markdown](https://img.shields.io/badge/Markdown-ECECEC?style=for-the-badge&logo=markdown&logoColor=5aa132)
 
----
 
 ## 📚 Current Focus
 
@@ -42,5 +40,4 @@ Software Engineer focused on backend architecture, APIs and distributed systems.
 - Event-driven systems with **Kafka**
 - Observability and monitoring
 
----
 
